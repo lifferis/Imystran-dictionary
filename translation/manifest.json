@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "dictionaryVersion": "20260402",
+  "baseFile": {
+    "file": "masterdata_base.tsv",
+    "sha256": "accc41008952b8415b0b65735057e565fbba731e4ecb56b2dc8f9a3c336d20b4",
+    "size": 12176592
+  },
+  "patches": [
+    {
+      "file": "masterdata_patch_20260401.tsv",
+      "sha256": "9f9078f3d7fc536a01a0f6a276335c859703a54e1939aee854e434c4b574f410",
+      "size": 5195318
+    },
+    {
+      "file": "masterdata_patch_20260402.tsv",
+      "sha256": "903f898a7e92866f089fadfc64fa9152cd145b9174f96cbfb720ee89a68481a1",
+      "size": 8716115
+    }
+  ]
+}
