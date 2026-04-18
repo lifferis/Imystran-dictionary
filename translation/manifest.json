@@ -3,8 +3,8 @@
   "dictionaryVersion": "20260418",
   "baseFile": {
     "file": "masterdata_base.tsv",
-    "sha256": "accc41008952b8415b0b65735057e565fbba731e4ecb56b2dc8f9a3c336d20b4",
-    "size": 12176592
+    "sha256": "fe8f57f74d5ca404db006f614017d4843aae0a0a98a9b6188e90d0a02b191ac5",
+    "size": 12176385
   },
   "patches": []
 }
