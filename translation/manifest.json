@@ -1,10 +1,16 @@
 {
   "schemaVersion": 1,
-  "dictionaryVersion": "20260418",
+  "dictionaryVersion": "00000001",
   "baseFile": {
     "file": "masterdata_base.tsv",
     "sha256": "db39344630dac37488b0c5d7b53d56f613141c0aaf9979e5510c2cf08d73f039",
     "size": 12176419
   },
-  "patches": []
+  "patches": [
+    {
+      "file": "masterdata_patch_00000001.tsv",
+      "sha256": "3a8e70ee4dc27e15c735791fab2cd3f6d87be142378240cd5df4ccae9efe842f",
+      "size": 580127
+    }
+  ]
 }
