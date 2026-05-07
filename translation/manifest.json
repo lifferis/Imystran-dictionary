@@ -13,6 +13,11 @@
       "size": 607511
     },
     {
+      "file": "masterdata_patch_00000004.tsv",
+      "sha256": "84b7a0e804385f3e331a99b07563704039c920b73df0e243971ae4405cb774ec",
+      "size": 38832
+    },
+    {
       "file": "masterdata_patch_20260508.tsv",
       "sha256": "db3d152635137d9bc5c07cc2b7fa2070440e7e3cd2cdd20e26e90c98ae0b60b3",
       "size": 97399
